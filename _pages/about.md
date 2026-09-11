@@ -18,7 +18,7 @@ I am currently seeking a supervisor for my graduate studies and would be delight
 <p align="center">
   <img src="/images/musical.jpg" alt="Musical theatre" width="500">
 </p>
-<p align="center"><em>Kindle the Fire in Your Heart!</em></p>
+<p align="center"><em>Raise a glass to freedom!</em></p>
 
 <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
