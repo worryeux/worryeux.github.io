@@ -15,6 +15,11 @@ Beyond academics, I enjoy debate, which has sharpened my ability to construct ar
 
 I am currently seeking a supervisor for my graduate studies and would be delighted to discuss research opportunities in any area where I can contribute and grow.
 
+<p align="center">
+  <img src="/images/musical.jpg" alt="Musical theatre" width="500">
+</p>
+<p align="center"><em>Kindle the Fire in Your Heart!</em></p>
+
 <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h2>Interests</h2>
