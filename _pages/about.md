@@ -37,3 +37,5 @@ I am currently seeking a supervisor for my graduate studies and would be delight
     </ul>
   </div>
 </div>
+
+{% include giscus.html %}
