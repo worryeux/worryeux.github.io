@@ -2,7 +2,6 @@
 permalink: /
 title: "Biography"
 author_profile: true
-comments: true
 redirect_from: 
   - /about/
   - /about.html
@@ -38,3 +37,19 @@ I am currently seeking a supervisor for my graduate studies and would be delight
     </ul>
   </div>
 </div>
+
+<script src="https://giscus.app/client.js"
+        data-repo="worryeux/worryeux.github.io"
+        data-repo-id="R_kgDOUU51oQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOUU51oc4DFY0j"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
