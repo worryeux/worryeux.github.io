@@ -38,6 +38,9 @@ I am currently seeking a supervisor for my graduate studies and would be delight
   </div>
 </div>
 
+</div>
+
+<!-- Giscus Comments -->
 <script src="https://giscus.app/client.js"
         data-repo="worryeux/worryeux.github.io"
         data-repo-id="R_kgDOUU51oQ"
