@@ -14,3 +14,21 @@ I am a highly adaptable learner with a strong curiosity across diverse research 
 Beyond academics, I enjoy debate, which has sharpened my ability to construct arguments and think critically under pressure. I am also a musical theatre enthusiast and an avid reader of ancient Chinese history. These interests keep me curious about how people tell stories, how narratives shape public understanding, and how history informs the present.
 
 I am currently seeking a supervisor for my graduate studies and would be delighted to discuss research opportunities in any area where I can contribute and grow.
+
+<div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <h2>Interests</h2>
+    <ul>
+      <li>Emotion and Memory</li>
+      <li>Affective Narrative</li>
+      <li>Computational Methods</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>MA in Communication</strong>, Nanjing University (2026 – present)</li>
+      <li><strong>BA in Journalism</strong>, Southwest University (2022 – 2026)</li>
+    </ul>
+  </div>
+</div>
